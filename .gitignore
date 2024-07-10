@@ -1,0 +1,7 @@
+myenv
+.env
+__pycache__/examples_selector.cpython-310.pyc
+__pycache__/prompts_template_helper.cpython-310.pyc
+__pycache__/table_info.cpython-310.pyc
+__pycache__/langchain_helper.cpython-310.pyc
+SmartQueryGenerator.code-workspace
